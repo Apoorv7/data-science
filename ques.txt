@@ -1,0 +1,7 @@
+que
+-get list of files
+-get file type
+-read every file
+-split/clean data
+-store to list
+-write to  another file

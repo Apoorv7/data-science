@@ -1,0 +1,61 @@
+data format : 
+	one dimenssion
+			a = [1,2,2,3333,'sjhgshs']
+	two dimenssion :
+			b = [[1,2,3],[22,33,44]]
+
+
+
+
+numpy : numerical python
+============================
+array : is collection of data or values
+-array can be one dimenssion , two dimenssion or multiple dimenssion 
+
+		
+pip install pandas
+or
+pip install numpy 
+
+import numpy 
+
+
+One Dimenssion:
+	import numpy as np
+	
+	np.arange(24)    # 1 2 ... 24
+	np.array(list)  # convert list to array 
+
+
+
+	
+encrypt example
+=====================
+>>> a ='x'
+>>> a
+'x'
+>>> ord(a)
+120
+>>> '000'+str(ord(a)*1000)+'aaa'
+'000120000aaa'
+>>> d ='000'+str(ord(a)*1000)+'aaa'
+>>> d
+'000120000aaa'
+>>> d[3:]
+'120000aaa'
+>>> d = d[3:]
+>>> d = d[:len(d)-3]
+>>> d
+'120000'
+>>> int(d)//1000
+120
+
+
+================  Suppervised (labeled data) and Unsupervised Analysis ==========================
+
+
+regression
+decision tree
+forecasting 
+
+

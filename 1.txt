@@ -1,0 +1,4 @@
+anova-analysis of variance
+correlation-relation b/t every coloumn with one another
+regression-
+decision tree

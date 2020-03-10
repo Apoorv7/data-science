@@ -1,0 +1,40 @@
+Machine Learning(ML)	: algo, logic , functions , stats 
+			  , data analytics
+ 
+Data Science		: read data from other source (.xls, .xlsx, .csv, website, 				datatbase) 
+			: clean and transform the data 
+			: apply alog 
+
+AI 			: automation , robotics 
+	
+
+
+There are following inbuilt modules for ML 
+--------------------------------------------
+pandas  : will also include numpy (numerical python)
+	: numpy - to manage the array(columns) and vector 
+	: pandas - to manage the dataframe / tables
+	
+matplotlib : graph /visualiztion 
+
+scipy	: algo , and model selection 
+
+
+sklearn : algo 		
+		-regression 
+		-corr
+		-decision tree
+		-knn
+		-svm 
+		etc.
+	
+
+
+
+
+			
+pip install pandas
+pip install matplotlib
+pip install sklearn
+
+

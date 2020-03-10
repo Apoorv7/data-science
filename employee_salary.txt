@@ -1,0 +1,14 @@
+eid,ename,country,language,education,regular,exp,salary
+1,aaaa,india,python,mca,yes,2,400000
+1,aaaa,india,python,bca,yes,2,200000
+1,aaaa,india,python,btech,yes,2,450000
+1,aaaa,india,python,mca,yes,2,400000
+1,aaaa,india,python,mca,yes,2,400000
+1,aaaa,india,python,mca,yes,2,400000
+
+1,aaaa,uk,python,mca,yes,2,400000
+1,aaaa,uk,python,mca,yes,2,400000
+1,aaaa,uk,python,mca,yes,2,400000
+1,aaaa,uk,python,mca,yes,2,400000
+1,aaaa,uk,python,mca,yes,2,400000
+1,aaaa,uk,python,mca,yes,2,400000
